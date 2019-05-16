@@ -1,2 +1,3 @@
-# mads
+# MADS
+
 Database and Dashboard
